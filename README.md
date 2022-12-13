@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Konstantin</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-- 🌱 I’m currently learning C#/.NET, MVVM, WPF, SQL, EF
-- ✨My Bachelor's Degree: Computer Software and Information Network Administration
-- 📫 How to reach me: publickhaidayev@gmail.com
+##- 🌱 I’m currently learning C#/.NET, MVVM, WPF, SQL, EF
+##- ✨My Bachelor's Degree: Computer Software and Information Network Administration
+##- 📫 How to reach me: publickhaidayev@gmail.com
 <!--
 **NiceManItIsAboutMe/NiceManItIsAboutMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
