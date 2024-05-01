@@ -1,5 +1,6 @@
 # <h1 align="center">Hi there, I'm Konstantin</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-## - 🌱 I’m currently learning C#/.NET, MVVM, WPF, SQL, EF
+## - 🔭 My work 01.02.2023-currently: programmer at JSC research and production company "Katren" (apteka.ru/apteka.com)
+## - 🌱 My skills: C#/.NET, MVVM, WPF, T-SQL, Delphi, VBS, CLI
 ## - ✨My Bachelor's Degree: Computer Software and Information Network Administration
 ## - 📫 How to reach me: publickhaidayev@gmail.com
 <!--
